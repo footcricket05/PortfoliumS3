@@ -1,8 +1,11 @@
 # Deploying Portfolio on S3 Bucket 
 
 This repository contains the code and configuration for deploying a portfolio website to an Amazon Web Services (AWS) S3 (Simple Storage Service) bucket. It's important to note that the actual website files, such as HTML, CSS, and JavaScript, are **not** provided in this repository.
+
 As part of this project, users are expected to create and prepare their own website files. You can design and structure your website to showcase your portfolio according to your preferences. The website content, images, and any other assets should be customized to best represent your work and personal brand.
+
 You can create your HTML, CSS, and JavaScript files, organize your portfolio content, and personalize the website design to meet your specific needs. We recommend using a code editor or integrated development environment (IDE) to create and edit your website files.
+
 Feel free to be creative and make your website unique. If you have any questions or need guidance on designing your portfolio website, please don't hesitate to ask in the project's issues or discussions.
 
 **Live Link**: [Portfolio on S3 Bucket](http://mini.project.bucket.s3-website-us-east-1.amazonaws.com)
