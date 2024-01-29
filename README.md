@@ -1,7 +1,5 @@
 # PortfoliumS3: Deploying Portfolio on S3 Bucket 🚀
 
-**Live Link**: [Portfolio on S3 Bucket](http://mini.project.bucket.s3-website-us-east-1.amazonaws.com)
-
 ## Overview 📋
 
 Welcome to the PortfoliumS3 project, where we demonstrate how to deploy a portfolio website to an Amazon Web Services (AWS) S3 (Simple Storage Service) bucket. AWS S3 is an excellent choice for hosting static websites due to its low-latency, scalability, and cost-effectiveness. This project showcases the deployment of a static website, making it accessible via a user-friendly URL.
